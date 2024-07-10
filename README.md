@@ -13,7 +13,6 @@
 ![Screenshot (4)](https://github.com/Gehad-Elsady/recbekia/assets/117448563/ed4c3ce7-36f6-4113-9c03-6dd5f636aaf8)
 ![Screenshot (3)](https://github.com/Gehad-Elsady/recbekia/assets/117448563/b0e747ae-0f3b-49dc-bf4c-3a5c72072f18)
 ![Screenshot (2)](https://github.com/Gehad-Elsady/recbekia/assets/117448563/c6404c5d-0fac-480c-a02c-05b346719dd7)
-![Screenshot (1)](https://github.com/Gehad-Elsady/recbekia/assets/117448563/3d077cbf-e02c-4d79-8d56-73a09bcc69e3)
 ![Screenshot (21)](https://github.com/Gehad-Elsady/recbekia/assets/117448563/21673416-c58b-49ff-9aaa-5365cb2444ae)
 ![Screenshot (20)](https://github.com/Gehad-Elsady/recbekia/assets/117448563/08e098e7-b04d-4a92-8532-a4bda0ad0fef)
 ![Screenshot (19)](https://github.com/Gehad-Elsady/recbekia/assets/117448563/1930f234-711c-492e-9a7b-b05e721e3a34)
