@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "480965195745",
+    "project_id": "recbekia-85d2b",
+    "storage_bucket": "recbekia-85d2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480965195745:android:ea7453ed803b76f4b5c4a0",
+        "android_client_info": {
+          "package_name": "com.example.gp_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSgzNXxRV-B5VjKUULB01REIcfYNIajl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480965195745:android:f5d451f8e5bc7fd4b5c4a0",
+        "android_client_info": {
+          "package_name": "com.example.recbekia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSgzNXxRV-B5VjKUULB01REIcfYNIajl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
